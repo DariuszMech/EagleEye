@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.dariuszmech.desktop","l":"DesktopLauncher"},{"p":"com.dariuszmech","l":"EagleEyeCG"}];updateSearchResults();
